@@ -3,7 +3,7 @@ title: "Beer Case Study"
 author: "Bilma Sanchez"
 date: "March 2, 2019"
 output: 
-  html_document:
+  html_document: true
   keep_md:true
 ---
 
